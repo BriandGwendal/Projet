@@ -8,3 +8,4 @@ public Cheval(){
 ajout de la méthode calculAgeCheval
 
 ajout de la methode calculDesCourses
+/*test*/
